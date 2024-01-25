@@ -1,7 +1,5 @@
 # Group07
 
-Questa repo bla bla
-
 Per eseguire i test:
 
 1. Aprire il terminale.
